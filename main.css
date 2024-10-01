@@ -1,0 +1,43 @@
+/* // Fin */
+*{
+    color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 700;
+ word-wrap: break-word;
+/* --- */
+/* // Track */
+color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word;
+/* ---
+// Overview */
+color: #00B3FF;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word;
+/* ---
+// Expenses */
+color: #AFAFAF;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word;
+/* ---
+// Investments */
+color: #AFAFAF;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word;
+/* ---
+// Reports */
+color: #AFAFAF;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word;
+}
